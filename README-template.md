@@ -42,8 +42,11 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
-I came to class, wrote some code, asked peers and google for help.
-
+- Attended class
+- Worked on coding tasks
+- Collaborated with classmates for help
+- Used online resources to find solutions
+  
 ### Built with
 
 - Semantic HTML5 markup
@@ -56,9 +59,7 @@ I came to class, wrote some code, asked peers and google for help.
 
 ### What I learned
 
-I learned a lot more about the box model and aligning objects horizontally to eachother. I also learned how to work with wrapping and making the cite mobile proof with percent margins.
-
-To see how you can add code snippets, see below:       
+I learned a lot more about the box model and aligning objects horizontally to eachother. I also learned how to work with wrapping and making the site mobile proof with percent margins.    
 
 
 ```html
@@ -114,5 +115,5 @@ I want to learn more about boxes and display settings in html. I was able to get
 
 ## Acknowledgments
 
-Alex Frieders, Mithun, Elnatan, Darsh, and Mr.Garner
+Alex Frieders, Mithun, Elnatan, Darsh, and Mr.Gardner
 
