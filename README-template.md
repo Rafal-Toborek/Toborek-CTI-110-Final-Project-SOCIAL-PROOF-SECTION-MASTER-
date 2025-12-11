@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./project.png)
+![](design/project.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox or other browser to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -42,7 +42,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
-
+I came to class, wrote some code, asked peers and google for help.
 
 ### Built with
 
@@ -59,24 +59,38 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 I learned a lot more about the box model and aligning objects horizontally to eachother. I also learned how to work with wrapping and making the cite mobile proof with percent margins.
 
 To see how you can add code snippets, see below:       
+
+
+```html
+    <div class="container">
+         
+          <div class="container1">
+            <img src="../images/image-colton.jpg" class="colton"> <p> <br> <span class="namecolton"> Colton Smith </span><br>
+            <span class="vb">Verified Buyer</span> <br> <br> <br>
+            "We needed the same printed design as the one we had ordered a week prior.
+            Not only did they find the original order, but we also received it in time.
+            Excellent!" </p> 
+          </div>
+          <div class="container2">
+            <img src="../images/image-irene.jpg" class="colton"> <p> <br> <span class="nameirene"> Irene Roberts </span><br>
+            <span class="vb">Verified Buyer</span> <br> <br> <br>
+            "Customer service is always excellent and very quick turn around. Completely
+            delighted with the simplicity of the purchase and the speed of delivery." </p> 
+          </div>
+          <div class="container3">
+            <img src="../images/image-anne.jpg" class="colton"> <p> <br> <span class="nameanne"> Anne Wallace </span><br>
+            <span class="vb">Verified Buyer</span> <br> <br> <br>
+            "Put an order with this company and can only praise them for the very high
+            standard. Will definitely use them again and recommend them to everyone!"</p> 
+          </div>
+```
+```css
 display: flex;
 flex-wrap: wrap; 
 
 body { margin: 10%;}
+```
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
